@@ -4,7 +4,7 @@ public class EnumAPP {
     public static void main(String[] args) {
         
         Customer customer = new Customer();
-        customer.setName("Fajar");
+        customer.setName("Fajar Pikekah");
         customer.setEnumClass(EnumClass.PREMIUM);
 
         System.out.println(customer.getName());
